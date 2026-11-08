@@ -1,0 +1,6 @@
+{
+  "name": "cc-cockpit-themes",
+  "private": true,
+  "description": "Build and tests for the bronos.themes cc-cockpit plugin; the plugin itself is plain theme files.",
+  "scripts": { "build": "node scripts/build-themes.js", "test": "node --test test/" }
+}

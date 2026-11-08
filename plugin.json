@@ -1,0 +1,97 @@
+{
+  "id": "bronos.themes",
+  "name": "Theme Pack",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "21 colour themes for cc-cockpit, on any system: Tokyo Night, Catppuccin Mocha and Latte, Rosé Pine Dawn, Nord, Gruvbox, Everforest, Kanagawa, Flexoki Light, Miasma, and Omarchy's own (Matte Black, Ethereal, Vantablack, White and more); 5 of them light. Pick one in Settings › Appearance. Each theme colours the app, its panels and the Claude terminals (the 16 terminal colours of the scheme). The palettes are the ones Omarchy ships, with the same mapping as the Omarchy Theme plugin, so a theme here matches it exactly. Plain theme files: the plugin runs no code.",
+  "author": "Oleg Bronzov",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "id": "tokyo-night",
+        "file": "themes/tokyo-night.json"
+      },
+      {
+        "id": "catppuccin",
+        "file": "themes/catppuccin.json"
+      },
+      {
+        "id": "catppuccin-latte",
+        "file": "themes/catppuccin-latte.json"
+      },
+      {
+        "id": "rose-pine",
+        "file": "themes/rose-pine.json"
+      },
+      {
+        "id": "nord",
+        "file": "themes/nord.json"
+      },
+      {
+        "id": "gruvbox",
+        "file": "themes/gruvbox.json"
+      },
+      {
+        "id": "everforest",
+        "file": "themes/everforest.json"
+      },
+      {
+        "id": "kanagawa",
+        "file": "themes/kanagawa.json"
+      },
+      {
+        "id": "flexoki-light",
+        "file": "themes/flexoki-light.json"
+      },
+      {
+        "id": "miasma",
+        "file": "themes/miasma.json"
+      },
+      {
+        "id": "matte-black",
+        "file": "themes/matte-black.json"
+      },
+      {
+        "id": "ethereal",
+        "file": "themes/ethereal.json"
+      },
+      {
+        "id": "hackerman",
+        "file": "themes/hackerman.json"
+      },
+      {
+        "id": "jade-horse",
+        "file": "themes/jade-horse.json"
+      },
+      {
+        "id": "last-horizon",
+        "file": "themes/last-horizon.json"
+      },
+      {
+        "id": "lupine",
+        "file": "themes/lupine.json"
+      },
+      {
+        "id": "retro-82",
+        "file": "themes/retro-82.json"
+      },
+      {
+        "id": "solitude",
+        "file": "themes/solitude.json"
+      },
+      {
+        "id": "starship",
+        "file": "themes/starship.json"
+      },
+      {
+        "id": "vantablack",
+        "file": "themes/vantablack.json"
+      },
+      {
+        "id": "white",
+        "file": "themes/white.json"
+      }
+    ]
+  }
+}
